@@ -1,12 +1,3 @@
----
-description: >-
-  This is the main page for this short and cosy portfolio project, made using
-  Gitbook.
-cover: >-
-  https://images.unsplash.com/photo-1531265726475-52ad60219627?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxtaW5pbWFsJTIwdXJiYW58ZW58MHx8fHwxNzAyMDM0NDA1fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
----
-
 # 💻 Welcome page
 
 I have been actively writing documentation since 2019, bringing my expertise in translation and journalism to this field. Despite graduating as a surveyor, my professional journey has led me to work in diverse industries such as IoT, logistics, cryptocurrency, and cybersecurity. Adaptability is one of my strengths, allowing me to quickly grasp new domains.&#x20;
